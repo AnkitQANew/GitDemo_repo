@@ -18,6 +18,10 @@ public class Code_1 {
 			System.out.println("Do your assignment  ");
 		    
 		    }
+		
+		
+		
+		System.out.println("The String value is  ::="+str);
 	}
 
 }

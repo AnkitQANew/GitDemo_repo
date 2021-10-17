@@ -15,7 +15,7 @@ public class Code_1 {
 		
 		else {
 			
-			System.out.println("Do your assignment");
+			System.out.println("Do your assignment    ");
 		    
 		    }
 	}
